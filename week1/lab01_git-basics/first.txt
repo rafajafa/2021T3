@@ -1,0 +1,2 @@
+some change hello world conflicts
+this change is make on [new_branch]
