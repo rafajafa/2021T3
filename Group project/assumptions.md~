@@ -1,0 +1,19 @@
+Assumption 1: General
+    The all_members and owner_members lists in the data_store must contain the users in the order they were added
+
+Assumption 2: General
+    All input is of the correct type
+
+Assumption 3: length of strings
+    Password and email can theoretically be of any length 
+
+Assumption 4: Data store set up 
+    Channels list in the data_store conatins the messages.
+
+Assumption 5: Channels
+    Multiple channels can share the same name. Justifiable since they are distinguishable by their channel_id
+
+Assumption 6: Data store set up 
+    Data store contains only two objects - users and channels
+   
+Assumption 7: 
